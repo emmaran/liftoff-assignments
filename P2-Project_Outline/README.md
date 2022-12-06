@@ -7,12 +7,38 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our app is for the inexperienced home bartenders who want to discover new drink receipes and share personal creations. Our users will have the opportunity to list ingredients they have on hand and search the recipe database based on the selected ingredients.
+
+Users will be able to connect with other uses to provide drink recommendations, share drinks, and give "toasts" to their favorite recipes. It's convenient to have all the recipes in one place and have a collection of their favorite recipes.
+
 ### Features
-Include Features here
+• Login — Users will be able to create an account and login
+
+• Search — Users will be able to search by keyword to find recipes
+
+• Drink API — Database for common cocktails and mocktails
+
+• Save and Delete — Users will be able to save and delete recipes
+
+• Category — Users will be able to create categories to sort recipes (favorites, shared, etc.)
+
 ### Technologies
-Include Technologies here
+• Spring Boot
+
+• MySQL
+
+• Hibernate
+
+• Thymeleaf
+
+• Drink API
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+• How to add the Drink API
+
+• GitHub Group Workflow
+
+• Getting comfortable with JIRA
+
 ### Project Tracker
 Link to your Trello board here
